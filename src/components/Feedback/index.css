@@ -1,0 +1,29 @@
+/* Write your CSS code here. */
+.feedContainer {
+  background-color: ffc0bb;
+  width: 100%;
+  padding: 18px;
+}
+
+.emojiContainer {
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+  margin: 25px;
+}
+.heading {
+  color: black;
+  font-size: 28px;
+  font-family: 'roboto';
+  text-align: center;
+}
+.changingObject {
+  justify-items: center;
+  margin: 25px;
+  padding: 29px;
+}
+
+.image {
+  align-items: flex-start;
+  background-size: cover;
+}
